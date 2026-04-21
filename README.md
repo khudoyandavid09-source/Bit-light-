@@ -20,3 +20,28 @@ Smart AI-powered tool with ESP32 and remote server integration.
 ### Educational & Career Milestones
 - [ ] Achieve a stable MVP (Minimum Viable Product) by Summer 2026.
 - [ ] Present the "Bit Light" ecosystem .
+
+
+🧱 hardware
+
+Computing & AI Logic:
+
+    Main Host (Brain): NVIDIA DGX spark — Runs the heavy AI models and the core Jarvis logic.
+
+    Interface Node: ESP32-S3 (N16R8) — 16MB Flash / 8MB PSRAM. Handles Voice Synthesis (I2S), Display, and Joystick navigation.
+
+    Connectivity Node: ESP32 — Dedicated API Gateway. Manages stable communication between the hardware stack and the NVIDIA server.
+
+RF & Wireless:
+
+    NRF24L01: 2.4GHz transceiver for wireless data interception and communication.
+
+    Radio Module: cc1101
+
+User Experience:
+
+    Voice System: I2S Audio interface for seamless ChatBot voice interaction.
+
+    Navigation: Tactical Joystick for manual system control.
+
+    Visuals: TFT Display for real-time status and system logs.(st7735)
