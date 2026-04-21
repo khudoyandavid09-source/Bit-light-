@@ -2,7 +2,7 @@
 Smart AI-powered tool with ESP32 and remote server integration.
 ## 🎯 Project Roadmap & Goals
 
-### Phase 1: Foundation (Current)
+### Phase 1: Foundation 
 - [x] Establish a professional development environment on Ubuntu (VS Code + PlatformIO).
 - [ ] Implement a **Dual-Chip Architecture** to separate Data Acquisition (Scanner) from Command & Control (Uplink).
 - [ ] Build a robust C++ "State Machine" core for the Bit Light firmware to ensure stability during multi-tasking.
