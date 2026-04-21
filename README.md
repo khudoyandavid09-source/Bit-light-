@@ -44,15 +44,5 @@
 
 ---
 
-## 🔌 Connection Map (Default Pinout)
-
-### 📺 Interface (ESP32-S3)
-| Module | Pin (ESP32-S3) | Note |
-| :--- | :--- | :--- |
-| **Display SDA/SCL** | G21 / G22 | I2C Communication |
-| **Joystick X/Y** | G01 / G02 | Analog Inputs |
-| **Joystick SW** | G03 | Digital Input (Click) |
-| **I2S Speaker** | G25 (LRCK) / G26 (BCK) / G27 (DIN) | Voice Output |
-
 
 
