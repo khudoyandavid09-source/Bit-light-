@@ -1,8 +1,6 @@
 # 📡 Bit Light — AI-Powered Autonomous System
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x200?text=BIT+LIGHT+PROJECT" alt="Bit Light Logo">
-</p>
+
 
 ## 🚀 About the Project
 **Bit Light** is an advanced, distributed hardware pentesting tool designed as an autonomous AI companion . It combines high-performance edge computing with multi-protocol radio interaction. Unlike standard ESP32 projects, Bit Light offloads heavy AI logic to a dedicated **NVIDIA DGX** host, using a dual-ESP32 architecture for seamless voice and signal processing.
